@@ -207,4 +207,14 @@ p {
     font-weight: 500;
 }
 
+.footer{
+    background-color:#1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+}
+
+
+
 
