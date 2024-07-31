@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+.header ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    gap: 1rem;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.header{
+    display: flex;
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+
+
+}
