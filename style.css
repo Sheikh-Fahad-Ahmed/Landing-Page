@@ -16,7 +16,7 @@ a {
     font-size: 18px;
 }
 
-h1{
+.section-1 h1{
     margin-bottom: 10px;
     font-size: 60px;
     font-weight: bolder;
@@ -47,8 +47,6 @@ p {
     font-size: 18px;
 }
 
-
-/* Classes start form here */
 
 .main {
     background-color: #1F2937;
@@ -83,5 +81,7 @@ p {
     margin-top: 100px;
     margin-bottom: 100px;
 }
+
+
 
 
